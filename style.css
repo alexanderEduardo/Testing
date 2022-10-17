@@ -7,3 +7,7 @@
     --primary-color: red;
     --secondary-coor: green;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+}
